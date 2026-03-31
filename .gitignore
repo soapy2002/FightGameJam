@@ -1,0 +1,11 @@
+
+*.log
+FightJam/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush
+FightJam/Intermediate/CachedAssetRegistry_0.bin
+FightJam/Intermediate/CachedAssetRegistryDiscovery.bin
+FightJam/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+*.old
+FightJam/Intermediate/ReimportCache/
+FightJam/Intermediate/PipInstall/
+FightJam/Saved/
+
