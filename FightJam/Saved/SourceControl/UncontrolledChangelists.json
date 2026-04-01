@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/GitHub/FightGameJam/FightJam/Content/Levels/Lv_Main.umap",
+				"E:/GitHub/FightGameJam/FightJam/Content/BP/CharacterBP/BP_FightingHUDActor.uasset",
+				"E:/GitHub/FightGameJam/FightJam/Content/BP/CharacterBP/BP_GameStateManager.uasset",
+				"E:/GitHub/FightGameJam/FightJam/Content/BP/CharacterBP/BP_MainGameMode.uasset",
+				"E:/GitHub/FightGameJam/FightJam/Content/BP/CharacterBP/BP_PlayerController.uasset",
 				"E:/UE 5.7/UE_5.7/Engine/Content/EditorSounds/GamePreview/StartSimulate_Cue.uasset",
 				"E:/UE 5.7/UE_5.7/Engine/Content/EditorSounds/GamePreview/StartSimulate.uasset",
 				"E:/UE 5.7/UE_5.7/Engine/Content/EditorSounds/GamePreview/StartPlayInEditor_Cue.uasset",
@@ -25,8 +30,7 @@
 				"E:/UE 5.7/UE_5.7/Engine/Content/EditorShapes/Textures/T_ShapeNormal.uasset",
 				"E:/UE 5.7/UE_5.7/Engine/Content/EditorShapes/Textures/T_ShapeDiffuse.uasset",
 				"E:/UE 5.7/UE_5.7/Engine/Content/EditorShapes/Materials/MI_ShapeInstance.uasset",
-				"E:/UE 5.7/UE_5.7/Engine/Content/EditorShapes/Materials/M_ShapeMaster.uasset",
-				"E:/GitHub/FightGameJam/FightJam/Content/Levels/Lv_Main.umap"
+				"E:/UE 5.7/UE_5.7/Engine/Content/EditorShapes/Materials/M_ShapeMaster.uasset"
 			]
 		}
 	]
