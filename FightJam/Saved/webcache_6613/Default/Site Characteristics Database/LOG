@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 2026/04/14-13:57:44.478 c270 Creating DB D:\FightGameJam\FightJam\Saved\webcache_6613\Default\Site Characteristics Database since it was missing.
 2026/04/14-13:57:44.641 c270 Reusing MANIFEST D:\FightGameJam\FightJam\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
+=======
+2026/04/14-11:28:53.308 10f6c Reusing MANIFEST E:\GitHub\FightGameJam\FightJam\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
+2026/04/14-11:28:53.309 10f6c Recovering log #3
+2026/04/14-11:28:53.310 10f6c Reusing old log E:\GitHub\FightGameJam\FightJam\Saved\webcache_6613\Default\Site Characteristics Database/000003.log 
+>>>>>>> Dev
