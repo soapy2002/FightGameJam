@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/FightGameJam/FightJam/Content/Materials/M_BaseMaterial.uasset",
+				"D:/FightGameJam/FightJam/Content/Materials/MI_BaseMaterial1.uasset",
+				"D:/FightGameJam/FightJam/Content/Meshes/SM_Stage.uasset",
 				"E:/GitHub/FightGameJam/FightJam/Content/Levels/Lv_Main.umap",
 				"E:/GitHub/FightGameJam/FightJam/Content/BP/CharacterBP/BP_FightingHUDActor.uasset",
 				"E:/GitHub/FightGameJam/FightJam/Content/BP/CharacterBP/BP_GameStateManager.uasset",
