@@ -1,3 +1,2 @@
-2026/04/15-17:56:19.575 12f28 Reusing MANIFEST E:\GitHub\FightGameJam\FightJam\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/04/15-17:56:19.580 12f28 Recovering log #4
-2026/04/15-17:56:19.582 12f28 Reusing old log E:\GitHub\FightGameJam\FightJam\Saved\webcache_6613\Default\Local Storage\leveldb/000004.log 
+2026/04/15-19:51:20.878 bacc Creating DB D:\FightGameJam\FightJam\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
+2026/04/15-19:51:21.251 bacc Reusing MANIFEST D:\FightGameJam\FightJam\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
