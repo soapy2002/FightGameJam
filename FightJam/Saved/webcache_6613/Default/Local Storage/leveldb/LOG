@@ -1,3 +1,5 @@
-2026/04/27-12:37:22.320 ded8 Reusing MANIFEST E:\GitHub\FightGameJam\FightJam\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/04/27-12:37:22.334 ded8 Recovering log #4
-2026/04/27-12:37:22.335 ded8 Reusing old log E:\GitHub\FightGameJam\FightJam\Saved\webcache_6613\Default\Local Storage\leveldb/000004.log 
+2026/04/27-22:37:21.321 9ebc Reusing MANIFEST E:\GitHub\FightGameJam\FightJam\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/27-22:37:21.326 9ebc Recovering log #4
+2026/04/27-22:37:21.359 9ebc Level-0 table #3: started
+2026/04/27-22:37:21.514 9ebc Level-0 table #3: 65237 bytes OK
+2026/04/27-22:37:21.571 9ebc Delete type=0 #4
